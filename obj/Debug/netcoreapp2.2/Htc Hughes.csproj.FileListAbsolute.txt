@@ -1,0 +1,11 @@
+c:\Users\User\Desktop\Htc Hughes\bin\Debug\netcoreapp2.2\Htc Hughes.deps.json
+c:\Users\User\Desktop\Htc Hughes\bin\Debug\netcoreapp2.2\Htc Hughes.runtimeconfig.json
+c:\Users\User\Desktop\Htc Hughes\bin\Debug\netcoreapp2.2\Htc Hughes.runtimeconfig.dev.json
+c:\Users\User\Desktop\Htc Hughes\bin\Debug\netcoreapp2.2\Htc Hughes.dll
+c:\Users\User\Desktop\Htc Hughes\bin\Debug\netcoreapp2.2\Htc Hughes.pdb
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.csprojAssemblyReference.cache
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.AssemblyInfo.cs
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.dll
+c:\Users\User\Desktop\Htc Hughes\obj\Debug\netcoreapp2.2\Htc Hughes.pdb
